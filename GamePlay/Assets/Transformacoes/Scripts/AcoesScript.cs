@@ -12,7 +12,7 @@ public class AcoesScript : MonoBehaviour
     {
         // transform.Translate(velocidade * Time.deltaTime, 0.0f, 0.0f);
         // transform.Translate(velocidadeXY.x * Time.deltaTime, velocidadeXY.y * Time.deltaTime, 0.0f);
-
+        //
         /* MOVIMENTO
         if(transform.position.x > 8.0f || transform.position.x < -8.0f)
         {

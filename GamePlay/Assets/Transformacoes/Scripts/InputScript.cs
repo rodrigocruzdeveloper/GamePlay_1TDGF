@@ -9,7 +9,7 @@ public class InputScript : MonoBehaviour
     void Update()
     {
         // EXEMPLO DE USO DE EIXOS PARA MOVIMENTACAO
-
+        //
         // INPUT
         float moverX = Input.GetAxis("Horizontal") * velocidade * Time.deltaTime;
         float moverY = Input.GetAxis("Vertical") * velocidade * Time.deltaTime;

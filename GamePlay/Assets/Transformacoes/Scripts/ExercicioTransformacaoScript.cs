@@ -17,7 +17,7 @@ public class ExercicioTransformacaoScript : MonoBehaviour
         mover = mover * velocidade * Time.deltaTime;
         transform.Translate(mover);
 
-
+        //
         // ALTERA A ESCALA DO SPRITE
         if (Input.GetButton("Fire1"))
         {

@@ -4,7 +4,7 @@ public class TransformadoreScript : MonoBehaviour
 {
     [SerializeField] Vector2 posicao;
 
-
+    //
     void Start()
     {
         // ATRIBUICAO UM TRANSFORM
